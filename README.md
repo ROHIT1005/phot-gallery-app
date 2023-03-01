@@ -39,4 +39,7 @@ A simple photo gallery app as part of an assignment for Aidar Health. Backend us
 - Click on ``close`` again to go back
 
 - To upload a art piece, go to the homepage, click on ``Choose File`` to select a art piece(remember to only image uploads is allowed, anything else will throw an error); enter the ``Art Name``(required), ``Artist``(optional), ``Buyer``(optional) and hit ``Upload`` to upload the art.
+
+<img width="1445" alt="image" src="https://user-images.githubusercontent.com/20667665/222246390-2a164868-b09b-4101-b6aa-551fe4c894de.png">
+
 - Note, it will take 30s - 50s for the art to upload, persist on the cloud db and render back to the gallery.
