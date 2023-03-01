@@ -42,4 +42,4 @@ A simple photo gallery app as part of an assignment for Aidar Health. Backend us
 
 <img width="1445" alt="image" src="https://user-images.githubusercontent.com/20667665/222246390-2a164868-b09b-4101-b6aa-551fe4c894de.png">
 
-- Note, it will take 30s - 50s for the art to upload, persist on the cloud db and render back to the gallery.
+- Note, it will take 30s - 50s for the art to upload, persist on the cloud db and render back to the gallery. Also, try to keep the file size to minimum since the mongo atlas db is free tier with only 512MB of allowance.
