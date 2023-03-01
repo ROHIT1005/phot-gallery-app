@@ -1,5 +1,7 @@
 # phot-gallery-app
 
+A simple photo gallery app as part of an assignment for Aidar Health. Backend uses: ``node js`` with ``express`` and ``mongo atlas db`` along with ``mongoose`` for ODM. Frontend is built with ``react`` and ``materials-ui``. Both of them are strongly typed using ``typescript``.
+
 ## How to run the backend server
 
 - ``cd server``
